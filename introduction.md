@@ -1,8 +1,9 @@
 
-# Guide
+# Workshop Collaborative and Fair Workflow
 
-This is a guide to software development and projects at the Netherlands eScience Center. It both serves as a source of information for exactly how we work at the eScience Center, and as a basis for discussions and reaching consensus on this topic.
+In this workshop we will teach:
 
-**This Guide is a work in progress**
-
-The source of this book can be found on GitHub: https://www.github.com/nlesc/guide
+- Collaboration on GitHub
+- Licensing
+- Modular code
+- Testing and CI
